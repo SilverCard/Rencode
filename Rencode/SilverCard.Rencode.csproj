@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>SilverCard.Rencode</RootNamespace>
+    <AssemblyName>SilverCard.Rencode</AssemblyName>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>SilverCard</Authors>
+    <Company>SilverCard</Company>
+    <Description>The Rencode module is a modified version of bencode from the BitTorrent project.</Description>
+    <PackageProjectUrl>https://github.com/SilverCard/Rencode</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/SilverCard/Rencode</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
